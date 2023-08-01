@@ -1,1 +1,1 @@
-# comimc
+# comic
